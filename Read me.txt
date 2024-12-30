@@ -1,0 +1,1 @@
+I looked up how to make the cells formatted as percents in VBA. 
